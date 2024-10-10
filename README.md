@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
 - [Built with](#built-with)
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Features](#features)
 - [Lighthouse Report](#Lighthouse-Report)
