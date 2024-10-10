@@ -31,7 +31,7 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 
 ### Links
 
-- Live Site URL : [Weather Application](https://weatheritoo.vercel.app/)
+- Live Site URL : [Weather Application](https://weather-dashboard-orcin.vercel.app)
 
 ### Features
 
